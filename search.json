@@ -4,14 +4,14 @@
     "href": "TeachingnService.html",
     "title": "TEACHING & SERVICE",
     "section": "",
-    "text": "研究生论文写作指导（Grad. Spring 2023）（Out-dated Lecture Slides: [Lec-1], [Lec-2], [Lec-3], [Lec-4], [Lec-5], [Lec-6]）\n机器学习 (Machine Learning, Grad. Spring 2025/2026) (Lecture Slides: [Lec-1（导论）], [Lec-2（数学基础）], [Lec-3-I（线性回归模型）], [Lec-3-II（线性分类模型）], [Lec-4（前馈神经网络）], [Lec-5（卷积神经网络）], [Lec-6（强化学习基础）])\n人工智能与算法应用 (Artificial Intelligence and Algorithm Applications, UnderGrad. Spring 2025/2026) (Lecture Slides: N/A)\n智能感知与物联网 (Intelligent Sensing and Internet of Things, UnderGrad. Spring 2024/2025/2026) (Lecture Slides 2026: [Lec-1], [Lec-2], [Lec-3], [Lec-4])\n\n\n\n\n[T1] Oct. 2019, guest lecture: “An introduction to game theoretic modeling in permissionless blockchain networks,” at Nanyang Technological University, Singapore [Slides]\n[T2] Oct. 2018, guest lecture: “The decentralized consensus in blockchain networks: bitcoins and beyond,” at Nanyang Technological University, Singapore [Slides]"
+    "text": "研究生论文写作指导（Grad. Spring 2023）（Out-dated Lecture Slides: [Lec-1], [Lec-2], [Lec-3], [Lec-4], [Lec-5], [Lec-6]）\n机器学习 (Machine Learning, Grad. Spring 2025/2026) (Lecture Slides: [Lec-1（导论）], [Lec-2（数学基础）], [Lec-3-I（线性回归模型）], [Lec-3-II（线性分类模型）], [Lec-4（前馈神经网络）], [Lec-5（卷积神经网络）], [Lec-6（强化学习基础）]， [Lec-7（时序神经网络）]，[Lec-8（数据降维）])\n人工智能与算法应用 (Artificial Intelligence and Algorithm Applications, UnderGrad. Spring 2025/2026) (Lecture Slides: N/A)\n智能感知与物联网 (Intelligent Sensing and Internet of Things, UnderGrad. Spring 2024/2025/2026) (Lecture Slides 2026: [Lec-1], [Lec-2], [Lec-3], [Lec-4]，[Lec-5]，[Lec-6]，[Lec-7])\n\n\n\n\n[T1] Oct. 2019, guest lecture: “An introduction to game theoretic modeling in permissionless blockchain networks,” at Nanyang Technological University, Singapore [Slides]\n[T2] Oct. 2018, guest lecture: “The decentralized consensus in blockchain networks: bitcoins and beyond,” at Nanyang Technological University, Singapore [Slides]"
   },
   {
     "objectID": "TeachingnService.html#teaching",
     "href": "TeachingnService.html#teaching",
     "title": "TEACHING & SERVICE",
     "section": "",
-    "text": "研究生论文写作指导（Grad. Spring 2023）（Out-dated Lecture Slides: [Lec-1], [Lec-2], [Lec-3], [Lec-4], [Lec-5], [Lec-6]）\n机器学习 (Machine Learning, Grad. Spring 2025/2026) (Lecture Slides: [Lec-1（导论）], [Lec-2（数学基础）], [Lec-3-I（线性回归模型）], [Lec-3-II（线性分类模型）], [Lec-4（前馈神经网络）], [Lec-5（卷积神经网络）], [Lec-6（强化学习基础）])\n人工智能与算法应用 (Artificial Intelligence and Algorithm Applications, UnderGrad. Spring 2025/2026) (Lecture Slides: N/A)\n智能感知与物联网 (Intelligent Sensing and Internet of Things, UnderGrad. Spring 2024/2025/2026) (Lecture Slides 2026: [Lec-1], [Lec-2], [Lec-3], [Lec-4])\n\n\n\n\n[T1] Oct. 2019, guest lecture: “An introduction to game theoretic modeling in permissionless blockchain networks,” at Nanyang Technological University, Singapore [Slides]\n[T2] Oct. 2018, guest lecture: “The decentralized consensus in blockchain networks: bitcoins and beyond,” at Nanyang Technological University, Singapore [Slides]"
+    "text": "研究生论文写作指导（Grad. Spring 2023）（Out-dated Lecture Slides: [Lec-1], [Lec-2], [Lec-3], [Lec-4], [Lec-5], [Lec-6]）\n机器学习 (Machine Learning, Grad. Spring 2025/2026) (Lecture Slides: [Lec-1（导论）], [Lec-2（数学基础）], [Lec-3-I（线性回归模型）], [Lec-3-II（线性分类模型）], [Lec-4（前馈神经网络）], [Lec-5（卷积神经网络）], [Lec-6（强化学习基础）]， [Lec-7（时序神经网络）]，[Lec-8（数据降维）])\n人工智能与算法应用 (Artificial Intelligence and Algorithm Applications, UnderGrad. Spring 2025/2026) (Lecture Slides: N/A)\n智能感知与物联网 (Intelligent Sensing and Internet of Things, UnderGrad. Spring 2024/2025/2026) (Lecture Slides 2026: [Lec-1], [Lec-2], [Lec-3], [Lec-4]，[Lec-5]，[Lec-6]，[Lec-7])\n\n\n\n\n[T1] Oct. 2019, guest lecture: “An introduction to game theoretic modeling in permissionless blockchain networks,” at Nanyang Technological University, Singapore [Slides]\n[T2] Oct. 2018, guest lecture: “The decentralized consensus in blockchain networks: bitcoins and beyond,” at Nanyang Technological University, Singapore [Slides]"
   },
   {
     "objectID": "TeachingnService.html#academic-services-activities",
@@ -81,7 +81,7 @@
     "href": "Chinese.html#部分论文",
     "title": "中文页",
     "section": "部分论文",
-    "text": "部分论文\n（*通信作者）\n[1] J. Li, X. Liu, Wenbo Wang* and Xiaodong Fu*, “A Strategy-Proof Mechanism for Fair Allocation of Multiple Resources with Access Constraints in Mobile Edge Computing,” accepted by IEEE Transactions on Vehicular Technology (TVT), 2026.\n[2] Y. Yin, R. Chiong*, C. Deng, L. Wang, D. Niyato and Wenbo Wang*, “World Model-driven Process Industry Operations: An Offline Reinforcement Learning Solution based on Conditional Diffusion,” in Computers in Industry (CII), vol. 177, pp. 104442, 17 Feb., 2026, doi: 10.1016/j.compind.2026.104442.\n[3]  G. Li, C. Yang*, G. Gao, X. Zhang, E. Wang, Wenbo Wang* and D. Niyato, “Distributed State Estimation with Two Event-triggered Communication Strategies via Internet of Underwater Things,” in IEEE Internet of Things Journal (IoTJ), vol. 13, no. 2, pp. 2345-2359, 15 Jan., 2026, doi: 10.1109/JIOT.2025.3630491.\n[4] M. He*, W. Long*, Wenbo Wang*, Y. Qiao and S. Lu, “Deep learning-based prediction of optimal surface texturing parameters for water-lubricated SiC,” in Tribology International, Volume 214, Part C, 2026, 111207, ISSN 0301-679X.\n[5] Yanlei Yin, Lihua Wang, Dinh Thai Hoang, Wenbo Wang*, and Dusit Niyato, “Sparse Attention-driven Quality Prediction for Production Process Optimization in Digital Twins”, in IEEE Internet of Things Journal (IoTJ), vol. 11, no. 23, pp. 38569 - 38584, 2024.\n[6] Y. Zhao, J. Yang, Wenbo Wang*, H. Yang and D. Niyato, “TranDRL: A Transformer-driven deep reinforcement learning enabled prescriptive maintenance framework”, in IEEE Internet of Things Journal (IoTJ), vol. 11, no. 21, pp. 35432 - 35444, 2024, arXiv:2309.16935, 2024.\n[7] S. Feng, X. Lu, D. Niyato, Y. Wu, X. Shen and Wenbo Wang*, “System-Level Security Solution for Hybrid D2D Communication in Heterogeneous D2D-Underlaid Cellular Network.” in IEEE Transactions on Wireless Communications (TWC), vol. 23, no. 10, pp. 15054 - 15069, 2024.\n[8] B. Tomer, Wenbo Wang and A. Leshem,”Learning for Optimal Spectrum Access in Dense Device-to-Device Ad-Hoc Networks,” in IEEE Transactions on Signal Processing (TSP), 2023, vol. 71, pp. 3149-3163.\n[9] K. S.-H. Ong, Wenbo Wang*, D. Niyato, N.-Q. Hieu and T. Friedrichs, “Predictive maintenance model for IIoT-based manufacturing: A transferable deep reinforcement learning approach,” in IEEE Internet of Things Journal (IoTJ), vol. 9, no. 17, pp. 15725-15741, 1 Sept.1, 2022.\n[10] Wenbo Wang* and A. Leshem, “Non-convex generalized Nash games for energy efficient power allocation and beamforming in mmWave networks,” in IEEE Transactions on Signal Processing (TSP), vol. 70, pp. 3193-3205, June, 2022."
+    "text": "部分论文\n（*通信作者）\n[1] Hao Liu, Guomeng Chen, Shuyi Dong, Zhiqiang Zhou and Wenbo Wang*, “MambaSOD: Small Object Detection from Drone Perspective in a Mamba-based Query-Feature Interaction Framework,” accepted by Unmanned Systems, 2026.\n[2] J. Li, X. Liu, Wenbo Wang* and Xiaodong Fu*, “A Strategy-Proof Mechanism for Fair Allocation of Multiple Resources with Access Constraints in Mobile Edge Computing,” accepted by IEEE Transactions on Vehicular Technology (TVT), 2026.\n[3] Y. Yin, R. Chiong*, C. Deng, L. Wang, D. Niyato and Wenbo Wang*, “World Model-driven Process Industry Operations: An Offline Reinforcement Learning Solution based on Conditional Diffusion,” in Computers in Industry (CII), vol. 177, pp. 104442, 17 Feb., 2026, doi: 10.1016/j.compind.2026.104442.\n[4]  G. Li, C. Yang*, G. Gao, X. Zhang, E. Wang, Wenbo Wang* and D. Niyato, “Distributed State Estimation with Two Event-triggered Communication Strategies via Internet of Underwater Things,” in IEEE Internet of Things Journal (IoTJ), vol. 13, no. 2, pp. 2345-2359, 15 Jan., 2026, doi: 10.1109/JIOT.2025.3630491.\n[5] M. He*, W. Long*, Wenbo Wang*, Y. Qiao and S. Lu, “Deep learning-based prediction of optimal surface texturing parameters for water-lubricated SiC,” in Tribology International, Volume 214, Part C, 2026, 111207, ISSN 0301-679X.\n[6] Yanlei Yin, Lihua Wang, Dinh Thai Hoang, Wenbo Wang*, and Dusit Niyato, “Sparse Attention-driven Quality Prediction for Production Process Optimization in Digital Twins”, in IEEE Internet of Things Journal (IoTJ), vol. 11, no. 23, pp. 38569 - 38584, 2024.\n[7] Y. Zhao, J. Yang, Wenbo Wang*, H. Yang and D. Niyato, “TranDRL: A Transformer-driven deep reinforcement learning enabled prescriptive maintenance framework”, in IEEE Internet of Things Journal (IoTJ), vol. 11, no. 21, pp. 35432 - 35444, 2024, arXiv:2309.16935, 2024.\n[8] S. Feng, X. Lu, D. Niyato, Y. Wu, X. Shen and Wenbo Wang*, “System-Level Security Solution for Hybrid D2D Communication in Heterogeneous D2D-Underlaid Cellular Network.” in IEEE Transactions on Wireless Communications (TWC), vol. 23, no. 10, pp. 15054 - 15069, 2024.\n[9] K. S.-H. Ong, Wenbo Wang*, D. Niyato, N.-Q. Hieu and T. Friedrichs, “Predictive maintenance model for IIoT-based manufacturing: A transferable deep reinforcement learning approach,” in IEEE Internet of Things Journal (IoTJ), vol. 9, no. 17, pp. 15725-15741, 1 Sept.1, 2022.\n[10] Wenbo Wang* and A. Leshem, “Non-convex generalized Nash games for energy efficient power allocation and beamforming in mmWave networks,” in IEEE Transactions on Signal Processing (TSP), vol. 70, pp. 3193-3205, June, 2022."
   },
   {
     "objectID": "Chinese.html#专利",
@@ -102,21 +102,21 @@
     "href": "Chinese.html#招生毕业情况",
     "title": "中文页",
     "section": "招生/毕业情况",
-    "text": "招生/毕业情况\n\n每年指导名额：本科生 (6 名)；学/专硕 (4-5 名)。\n研究生毕业要求：至少发表一篇IEEE会议论文，学硕需在此之外发表一篇IEEE期刊论文。\n指导频次：每周以专题报告形式开展1次集体组会；研一/研二学生要求至少每周1次一对一约谈讨论；组内学生开题及中期考核等归入机电工程学院“先进材料成形制造”大团队统一管理。\n组内工作风格：\n\n基本要求：自我驱动，严谨求是；请勿空谈。\n组内资源有限，无法支持硕士学生个人自主选择课题方向。\n学生在承诺毕业风险自担的前提下可以选择以个人身份外出实习，从2026年起导师不再推荐企业实习机会。\n\n毕业生情况统计：\n\n2026年-（1）硕士生：4人；（2）本科生暂无：\n2025年-（1）硕士生：暂无；（2）本科生5人：3人升学，其中1人获“昆明理工大学校级优秀毕业论文”奖；1人（留学生）肄业。"
+    "text": "招生/毕业情况\n\n每年指导名额：本科生 (6 名)；学/专硕 (4-5 名)。\n研究生毕业要求：至少发表一篇IEEE会议论文，学硕需在此之外发表一篇IEEE期刊论文。\n指导频次：每周以专题报告形式开展1次集体组会；研一/研二学生要求至少每周1次一对一约谈讨论；组内学生开题及中期考核等归入机电工程学院“先进材料成形制造”大团队统一管理。\n组内工作风格：\n\n基本要求：自我驱动，严谨求是；请勿空谈。\n组内资源有限，无法支持硕士学生个人自主选择课题方向。\n学生在承诺毕业风险自担的前提下可以选择以个人身份外出实习，从2026年起导师不再推荐企业实习机会。\n\n毕业生情况统计：\n\n2026年-（1）硕士生：4人，其中三人去向为企业生产型岗位，1人去向为公务员选调；（2）本科毕业设计7人：其中2022级6人（1人因其他原因肄业），2020级1人（因其他原因肄业）。\n2025年-（1）硕士生：暂无；（2）本科毕业设计5人：均为2021级，其中1人获“昆明理工大学校级优秀毕业论文”奖；1人（留学生）2026年毕业。"
   },
   {
     "objectID": "Group.html",
     "href": "Group.html",
     "title": "RESEARCH GROUP",
     "section": "",
-    "text": "截止2026-05-09, 刀毅、谭海阳、刘晧、肖佳妮四位同学顺利完成硕士答辩。"
+    "text": "2026年6月：刀毅、谭海阳、刘晧、肖佳妮四位同学获得硕士学位。"
   },
   {
     "objectID": "Group.html#news-团队动态",
     "href": "Group.html#news-团队动态",
     "title": "RESEARCH GROUP",
     "section": "",
-    "text": "截止2026-05-09, 刀毅、谭海阳、刘晧、肖佳妮四位同学顺利完成硕士答辩。"
+    "text": "2026年6月：刀毅、谭海阳、刘晧、肖佳妮四位同学获得硕士学位。"
   },
   {
     "objectID": "Group.html#spotlight-work-团队工作",
@@ -130,7 +130,7 @@
     "href": "Group.html#people-团队成员",
     "title": "RESEARCH GROUP",
     "section": "PEOPLE | 团队成员",
-    "text": "PEOPLE | 团队成员\n\nGraduate Students | 在读研究生\n\n\n  王闻博（-级）\n\n\n  郑义（2023级）\n\n\n  邱意鹏（2024级）\n\n\n  刘心悦（2024级）\n\n\n  张颖娜（2024级）\n\n\n  刘保宏（2024级）\n\n\n  宋展宇（2024级）\n\n\n  李宗谨（2024级）\n\n\n  张篮凯（2024级）\n\n\n   母昌黎（2025级）\n\n\n   龚琪（2025级）\n\n\n  孟凡超（2025级）\n\n\n  陈国梦（2025级）\n\n\n\n\nAlumni | 毕业生（去向）\n\n2023级硕士：刀毅（待入职）；谭海阳（待入职）；刘晧（待入职）；肖佳妮（待入职）"
+    "text": "PEOPLE | 团队成员\n\nGraduate Students | 在读研究生\n\n\n  王闻博（-级）\n\n\n  郑义（2023级）\n\n\n  邱意鹏（2024级）\n\n\n  刘心悦（2024级）\n\n\n  张颖娜（2024级）\n\n\n  刘保宏（2024级）\n\n\n  宋展宇（2024级）\n\n\n  李宗谨（2024级）\n\n\n  张篮凯（2024级）\n\n\n   母昌黎（2025级）\n\n\n   龚琪（2025级）\n\n\n  孟凡超（2025级）\n\n\n  陈国梦（2025级）\n\n\n\n\nAlumni | 毕业生（去向）\n\n2023级硕士（2026届）：刀毅（某省公务员选调）；谭海阳（宁波某企业）；刘晧（待入职）；肖佳妮（长沙某企业）"
   },
   {
     "objectID": "Group.html#resources-资源",
